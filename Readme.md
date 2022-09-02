@@ -1,1 +1,1 @@
-This repo contains deliverables for Technical Assesment completed by Burhan kachwala.
+This repo contains deliverables for Technical Assesment for Interview Process.
